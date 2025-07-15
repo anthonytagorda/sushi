@@ -492,7 +492,7 @@ body.dark-theme {
   background-color: var(--first-color-alt);
 }
 
-.popular__card:hober .popular__img {
+.popular__card:hover .popular__img {
   transform: translateY(-0.25rem);
 }
 /*=============== RECENTLY ===============*/
